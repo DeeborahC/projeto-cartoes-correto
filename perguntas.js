@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Artes',
+    'A Mona Lisa, pintada por Leonardo da Vinci, é uma das obras de arte mais famosas do mundo. Onde ela está exposta atualmente?',
+    'Ela está no Museu do Louvre, em Paris, França.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biologia',
+    'Qual animal é o maior mamífero terrestre do mundo?',
+    'É o elefante africano.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Química',
+    'Qual é o elemento químico mais abundante no universo? Ele é o principal combustível das estrelas, como o nosso Sol.',
+    ' É o hidrogênio.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz a frase "Olá, como você está?" em inglês?',
+    'Hello, how are you?'
 )
